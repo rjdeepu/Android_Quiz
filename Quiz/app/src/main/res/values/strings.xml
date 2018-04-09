@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <dimen name="header">24sp</dimen>
+    <dimen name="question">17sp</dimen>
+    <dimen name="answer">15sp</dimen>
+    <dimen name="cb_left_padding">16dp</dimen>
+    <dimen name="button">18sp</dimen>
+    <dimen name="button_lr_margin">100sp</dimen>
+    <dimen name="margin_top">16dp</dimen>
+    <string name="toast_score">Your Score:</string>
+    <string name="by_four">/4</string>
+    <color name="light_blue">#FAFAFA</color>
+    <string name="header">Quiz Rules</string>
+    <string name="q1">How many Questions can the Quiz app have?</string>
+    <string name="q1c1">2</string>
+    <string name="q1c2">8</string>
+    <string name="q1c3">20</string>
+    <string name="q2">What are the layout Best Practices?</string>
+    <string name="q2c1">Text Size should be in SP</string>
+    <string name="q2c2">Length should be in DP</string>
+    <string name="q2c3">None of the Above</string>
+    <string name="q3">What is the minimum number of View varieties to be included?</string>
+    <string name="q4">Should we post the Projects in Forums?</string>
+    <string name="q4c1">Yes</string>
+    <string name="q4c2">No</string>
+    <string name="submit">submit</string>
+</resources>
